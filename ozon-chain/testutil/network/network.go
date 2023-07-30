@@ -18,7 +18,7 @@ import (
 	authtypes "github.com/cosmos/cosmos-sdk/x/auth/types"
 	"github.com/stretchr/testify/require"
 
-	"github.com/alice/chain/app"
+	"github.com/ahmad-arman/ozon-chain/app"
 )
 
 type (

@@ -1,4 +1,4 @@
-module github.com/alice/chain
+module github.com/ahmad-arman/ozon-chain
 
 go 1.19
 

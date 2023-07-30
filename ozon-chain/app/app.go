@@ -112,13 +112,13 @@ import (
 
 	// this line is used by starport scaffolding # stargate/app/moduleImport
 
-	appparams "github.com/alice/chain/app/params"
-	"github.com/alice/chain/docs"
+	appparams "github.com/ahmad-arman/ozon-chain/app/params"
+	"github.com/ahmad-arman/ozon-chain/docs"
 )
 
 const (
 	AccountAddressPrefix = "cosmos"
-	Name                 = "chain"
+	Name                 = "ozon-chain"
 )
 
 // this line is used by starport scaffolding # stargate/wasm/app/enabledProposals

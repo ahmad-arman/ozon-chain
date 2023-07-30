@@ -6,8 +6,8 @@ import (
 	"github.com/cosmos/cosmos-sdk/server"
 	svrcmd "github.com/cosmos/cosmos-sdk/server/cmd"
 
-	"github.com/alice/chain/app"
-	"github.com/alice/chain/cmd/chaind/cmd"
+	"github.com/ahmad-arman/ozon-chain/app"
+	"github.com/ahmad-arman/ozon-chain/cmd/ozon-chaind/cmd"
 )
 
 func main() {
